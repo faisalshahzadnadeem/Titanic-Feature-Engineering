@@ -1,4 +1,7 @@
-- Python
-- Pandas
-- Scikit-learn
-- Streamlit
+
+### `requirements.txt`
+
+```plaintext
+pandas
+scikit-learn
+streamlit
